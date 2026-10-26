@@ -1,0 +1,10 @@
+{
+  "model": "Linear Regression",
+  "dataset_rows": 600,
+  "train_rows": 480,
+  "test_rows": 120,
+  "mae": 3.655,
+  "rmse": 4.536,
+  "r2": 0.866,
+  "dataset_note": "Synthetic educational data; not real-world validation."
+}
